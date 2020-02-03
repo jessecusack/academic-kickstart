@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-An extensive field campaign to study mixing within the Samoan Passage.
+An extensive field campaign was conducted to study the flow and mixing within the Samoan Passage.

@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-A multi year experiment to studying mixing and stirring in the Southern Ocean.
+A multi-year experiment to study mixing and stirring processes in the Southern Ocean.
