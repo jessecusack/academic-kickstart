@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoctoral research fellow at Rutgers University. I study small to mesoscale ocean processes such as turbulence, flows over topography, internal waves and eddies. I am interested in the role such processes play in Earth's climate. My approach combines analysis of high resolution in situ observations with numerical simulations. I practice open science by making analysis and software [available online](https://github.com/jessecusack).
+I am a postdoctoral research fellow at Rutgers University. I study small to mesoscale ocean processes such as turbulence, flows over topography, internal waves and eddies. I am interested in the role such processes play in Earth's climate. My approach combines analysis of high resolution in situ observations with numerical simulations. I practice open science by making analysis and software [available online](https://github.com/jessecusack).
