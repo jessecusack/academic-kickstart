@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoc Researcher"
-  company = "Scripps Institution of Oceanography"
+  title = "Postdoctoral Fellow"
+  company = "Rutgers University"
   company_url = ""
-  location = "San Diego, USA"
-  date_start = "2018-03-07"
+  location = "New Brunswick, NJ, USA"
+  date_start = "2020-10-01"
   date_end = ""
   # description = """
   # Responsibilities include:
@@ -31,6 +31,15 @@ date_format = "Jan 2006"
   # * Modelling
   # * Deploying
   # """
+
+[[experience]]
+  title = "Postdoc Researcher"
+  company = "Scripps Institution of Oceanography"
+  company_url = ""
+  location = "San Diego, USA"
+  date_start = "2018-03-07"
+  date_end = "2020-09-30"
+
 
 [[experience]]
   title = "Postgraduate Researcher"
