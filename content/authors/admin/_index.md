@@ -6,11 +6,11 @@ title: Jesse Cusack
 superuser: true
 
 # Role/position
-role: Postdoc Researcher
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Scripps Institution of Oceanography
+- name: Rutgers University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,7 +46,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=uE1rqV8AAAAJ&hl
+  link: https://scholar.google.com/citations?user=ilT_1fQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/jessecusack
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jmcusack@ucsd.edu"
+email: "jmcusack@marine.rutgers.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a physical oceanographer currently working as a postdoc at Scripps Institution of Oceanography. I research small to mesoscale scale physical processes in the ocean such as turbulence, flow over topography, internal waves and wave-eddy interactions. I am interested in the role such processes play in the Earth's climate.
+I'm a postdoctoral research fellow at Rutgers University. I study small to mesoscale ocean processes such as turbulence, flows over topography, internal waves and eddies. I am interested in the role such processes play in Earth's climate. My approach combines analysis of high resolution in situ observations with numerical simulations. I practice open science by making analysis and software [available online](https://github.com/jessecusack).
