@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include small scale ocean physics processes.
+bio: I'm a postdoctoral research fellow at Rutgers University. I study small to mesoscale ocean processes such as turbulence, flows over topography, internal waves and eddies. I am interested in the role such processes play in Earth's climate.
 
 interests:
 - Physical Oceanography
