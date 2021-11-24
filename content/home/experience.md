@@ -35,8 +35,6 @@ experience:
     # * Modelling
     # * Deploying
     # """
-
-experience:
   - title: "Postdoc Researcher"
     company: "Scripps Institution of Oceanography"
     company_url: ""
@@ -44,8 +42,6 @@ experience:
     date_start: "2018-03-07"
     date_end: "2020-09-30"
 
-
-experience:
   - title: "Postgraduate Researcher"
     company: "University of Southampton"
     company_url: ""
