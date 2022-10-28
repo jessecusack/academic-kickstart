@@ -22,12 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 experience:
+  - title: "Assistant Professor"
+    company: "Oregon State University"
+    company_url: ""
+    location: "Corvallis, OR, USA"
+    date_start: "2022-09-19"
+    date_end: ""
   - title: "Postdoctoral Fellow"
     company: "Rutgers University"
     company_url: ""
     location: "New Brunswick, NJ, USA"
     date_start: "2020-10-01"
-    date_end: ""
+    date_end: "2022-09-18"
     # description: """
     # Responsibilities include:
     #
