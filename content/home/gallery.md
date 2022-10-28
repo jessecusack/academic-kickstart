@@ -16,4 +16,4 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="LeConte202208" >}}
+{{< gallery album="misc" >}}
