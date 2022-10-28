@@ -10,7 +10,7 @@ last_name: Cusack
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a postdoctoral research fellow at Rutgers University. I study small to mesoscale ocean processes such as turbulence, flows over topography, internal waves and eddies. I am interested in the role such processes play in Earth's climate.
+bio: I'm a am Assitant Professor at Oregon State University. I study small to mesoscale ocean processes such as turbulence, flows over topography, internal waves and eddies. I am interested in the role such processes play in Earth's climate.
 
 # Interests to show in About widget
 interests:
