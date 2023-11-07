@@ -18,14 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a am Assitant Professor at Oregon State University. I study small to mesoscale ocean processes such as turbulence, flows over topography, internal waves and eddies. I am interested in the role such processes play in Earth's climate.
+bio: I study ocean physics over a range of length scales from turbulence (millimeters) to mesoscale eddies (hundreds of kilometers). I am particularly interested in understanding how the ocean melts glaciers and how currents interact with topography to generate mixing. 
 
 # Interests to show in About widget
 interests:
   - Physical Oceanography
-  - Internal Waves
+  - Ice-Ocean Interactions
+  - Flow-Topography Interactions
   - Turbulent Mixing
-  - Boundary Layers
 
 # Education to show in About widget
 education:
@@ -75,6 +75,9 @@ email: "jesse.cusack@oregonstate.edu"
 highlight_name: true
 ---
 
-I am an Assistant Professor at Oregon State University. I study small to mesoscale ocean processes such as turbulence, flows over topography, internal waves and eddies. I am interested in the role such processes play in Earth's climate. My approach combines analysis of high resolution in situ observations with numerical simulations. I practice open science by making analysis and software [available online](https://github.com/jessecusack).
+**I am looking for PhD students, especially those interested in glacier - ocean interactions. Please contact me for more information.**
+
+I am an [Assistant Professor in Physical Oceanography at Oregon State University](https://ceoas.oregonstate.edu/people/jesse-cusack). I am interested in ocean physics over length scales from turbulence (millimeters) to mesoscale eddies (hundreds of kilometers). Questions that motivate me include: _"how do currents influence ice melt at glaicers?"_, _"how is mixing generated when currents hit topography?"_, and _"how much energy is exchanged between eddies and internal waves?"_. My approach combines analysis of high resolution in situ observations with numerical simulations. I practice open science by making my analysis and software [available online](https://github.com/jessecusack).
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

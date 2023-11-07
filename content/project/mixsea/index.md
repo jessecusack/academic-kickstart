@@ -7,6 +7,7 @@ authors: [Jesse Cusack, Gunnar Voet]
 tags: []
 categories: []
 date: 2020-12-05T14:13:04-05:00
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

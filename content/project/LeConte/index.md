@@ -1,12 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fjord oceanography at LeConte glacier"
+title: "Physics of Ocean-Driven Ice Melt at Marine Terminating Glaicers"
 summary: ""
 authors: []
 tags: []
 categories: []
 date: 2020-12-05T14:10:35-05:00
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
