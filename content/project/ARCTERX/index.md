@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "mixsea: a python module for turbulence analysis of ocean observations"
+title: "Submesoscale processes in mesoscale eddies"
 summary: ""
-authors:
-tags: [code]
+authors: []
+tags: [oceanography]
 categories: []
-# date: 2020-12-05T14:13:04-05:00
+# date: 2020-12-05T14:10:35-05:00
 show_date: false
-weight: 10
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

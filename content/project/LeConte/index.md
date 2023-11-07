@@ -1,12 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Physics of Ocean-Driven Ice Melt at Marine Terminating Glaicers"
+title: "Ocean-driven ice melt at marine terminating glaicers"
 summary: ""
 authors: []
-tags: []
+tags: [oceanography, ice]
 categories: []
-date: 2020-12-05T14:10:35-05:00
+# date: 2020-12-05T14:10:35-05:00
+show_date: false
 weight: 1
 
 # Optional external URL for project (replaces project detail page).

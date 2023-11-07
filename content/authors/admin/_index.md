@@ -22,10 +22,10 @@ bio: I study ocean physics over a range of length scales from turbulence (millim
 
 # Interests to show in About widget
 interests:
-  - Physical Oceanography
-  - Ice-Ocean Interactions
-  - Flow-Topography Interactions
-  - Turbulent Mixing
+  - Physical oceanography
+  - Ice-ocean interaction
+  - Flow-topography interaction
+  - Turbulent mixing
 
 # Education to show in About widget
 education:
@@ -39,6 +39,46 @@ education:
     - course: MPhys Physics
       institution: University of Manchester
       year: 2012
+
+# Skills
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -77,7 +117,7 @@ highlight_name: true
 
 **I am looking for PhD students, especially those interested in glacier - ocean interactions. Please contact me for more information.**
 
-I am an [Assistant Professor in Physical Oceanography at Oregon State University](https://ceoas.oregonstate.edu/people/jesse-cusack). I am interested in ocean physics over length scales from turbulence (millimeters) to mesoscale eddies (hundreds of kilometers). Questions that motivate me include: _"how do currents influence ice melt at glaicers?"_, _"how is mixing generated when currents hit topography?"_, and _"how much energy is exchanged between eddies and internal waves?"_. My approach combines analysis of high resolution in situ observations with numerical simulations. I practice open science by making my analysis and software [available online](https://github.com/jessecusack).
+I am an [Assistant Professor in Physical Oceanography at Oregon State University](https://ceoas.oregonstate.edu/people/jesse-cusack). I am interested in ocean physics over length scales from turbulence (millimeters) to mesoscale eddies (hundreds of kilometers). Questions that motivate me include: _"how do currents influence ice melt at glaicers?"_, _"how is mixing generated when currents hit topography?"_, and _"how much energy is exchanged between eddies and internal waves?"_. My approach combines high resolution in situ observations with numerical simulations. I practice open science by making my analysis and software [available online](https://github.com/jessecusack).
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
